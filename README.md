@@ -23,7 +23,7 @@ Dự án được xây dựng hoàn toàn bằng HTML5, CSS (Tailwind CSS) và V
 1. Mở thư mục dự án trong **VS Code** hoặc **Antigravity IDE**.
 2. Cài đặt Extension **Live Server** (của *Ritwick Dey*) nếu chưa có.
 3. Nhấp chuột phải vào file [`index.html`](file:///Users/hoangngocnhi/Documents/BT1_Nhom2_2627I_INT3304_1/index.html) và chọn **"Open with Live Server"** (mặc định cổng `5500`).
-4. Truy cập trình duyệt tại: `http://localhost:5500/index.html` hoặc `http://10.11.172.202:5500/index.html`.
+4. Truy cập trình duyệt tại: `http://localhost:5500/index.html`.
 
 ---
 
@@ -31,7 +31,7 @@ Dự án được xây dựng hoàn toàn bằng HTML5, CSS (Tailwind CSS) và V
 Nếu máy đã cài đặt Python:
 ```bash
 # Di chuyển vào thư mục dự án
-cd /Users/hoangngocnhi/Documents/BT1_Nhom2_2627I_INT3304_1
+cd /BT1_Nhom2_2627I_INT3304_1
 
 # Chạy server ở cổng 5500 (hoặc cổng bất kỳ như 8000)
 python3 -m http.server 5500
