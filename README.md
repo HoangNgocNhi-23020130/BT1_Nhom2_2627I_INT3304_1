@@ -115,4 +115,8 @@ Trận đấu kết thúc ngay lập tức khi một trong các điều kiện s
 
 ## 👥 Nhóm Tác Giả
 - **Nhóm 2** - Lớp môn học: **INT3304_1**
-- Mã sinh viên: `23020130`
+- **Danh sách thành viên:**
+  1. **Dương Văn Hiệu**
+  2. **Hoàng Ngọc Nhi**
+  3. **Nguyễn Hoàng Vũ**
+  4. **Nguyễn Lưu Vũ**
