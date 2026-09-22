@@ -9,9 +9,7 @@
 
 Bạn có thể truy cập và trải nghiệm game trực tiếp tại địa chỉ:
 
-👉 **[http://10.11.172.202:5500/index.html](http://10.11.172.202:5500/index.html)**
-
-*(Đảm bảo thiết bị của bạn đang kết nối cùng mạng nội bộ (LAN/Wi-Fi) với máy chủ hoặc đang bật máy chủ nội bộ tương ứng).*
+👉 **[https://hoangngocnhi-23020130.github.io/BT1_Nhom2_2627I_INT3304_1/](https://hoangngocnhi-23020130.github.io/BT1_Nhom2_2627I_INT3304_1/)**
 
 ---
 
